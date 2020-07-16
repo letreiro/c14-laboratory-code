@@ -1,0 +1,280 @@
+﻿Code;Lab name;Country
+A;Arizona;USA
+AA;NSF;USA
+AAR;University of Aarhus;Denmark
+AC;Ingeis;Argentina
+AECV*;Alberta Environmental Center of Vegreville;Canada
+AERIK*;Atomic Energy Res. Inst.;Korea
+ALG*;Algiers;Algeria
+ANL*;Argonne Nat. Lab., Ill.;USA
+ANTW*;Antwerp;Belgium
+ANU*;Australian National University;Australia
+ANUA;ANU Accelerator;Australia
+AU*;University of Alaska;USA
+B;Bern;Switzerland
+Ba;Bratislava;Slovakia
+BC*;Brooklyn College;USA
+BE;University of Bern;Switzerland
+Beta;Beta Analytic;USA
+BGS*;Brock University;Canada
+BIOCAMS*;BIOCAMS International;USA
+Birm*;Birmingham;USA
+Bln*;Berlin;Germany
+BM*;British Museum;England
+BONN*;Universität Bonn;Germany
+BS;Birbal Sahni Institute;India
+BSG;Brock University;Canada
+C*;Chicago;USA
+CAMS;Center for Accelerator Mass Spectrometry;USA
+CAR*;Univ. College, Cardiff;Wales
+CENA;Centro Energia Nuclear na Agricultura;Brazil
+CG;Institute of Geology;China
+CH*;Chemistry Laboratory;India
+CNA;Centro Nacional de Aceladores;Spain
+CN-XX;Insittute of Geology and Geophysics, Chinese Acad. Sciences;China
+COL;University of Cologne AMS;Germany
+CRCA *;Cairo;Egypt
+CRL;Czech Radiocarbon Laboratory;Czech Republic
+CSIC;Geochronology Lab, IQFR-CSIC, Madrid;Spain
+CSM*;Cosmochemistry Lab. USSR Academy of Sciences;USSR
+CT*;Caltech, Calif. Inst. Tech.;USA
+CU;Charles University;Czech Republic
+D*;Dublin, Trinity College;Ireland
+Dak*;Univ. de Dakar;République du Sénégal
+DAL*;Dalhousie University;Canada
+DE*;USGS, Denver;USA
+Deb;Debrecen;Hungary
+DeA;Debrecen (AMS);Hungary
+DEM;Lab. of Archaeometry, NCSR Demokritos;Greece
+DGC;Dalhousie Geochronology Centre;Canada
+DIC*;Dicar Corp and Dicarb Radioisotope Company;USA
+DK;Institut Fondamental d’Afrique Noire (IFAN);Senegal
+DRI*;Desert Research Institute;USA
+DSA;Center for Isotopic Research on Cultural and Environmental Heritage (CIRCE);Italy
+D-AMS;Direct AMS;USA
+ENEA;ENEA, Bologna;Italy
+Erl*;Erlangen AMS Facility;Germany
+ETH;ETH/AMS Facility;Switzerland
+F*;Florence;Italy
+Fr*;Freiberg;Germany
+Fra*;Frankfurt;Germany
+FSU*;Florida State University;USA
+FZ;Fortaleza;Brazil
+FTMC;Vilnius AMS Lab;Lithuania
+G*;Göteborg;Sweden
+GAK;Gakushuin University;Japan
+Gd;Gliwice;Poland
+GD*;Gdansk;Poland
+Gif;Gif sur Yvette;France
+Gif A;Gif sur Yvette and Orsay;France
+GIN;Geological Institute;Russia
+GL*;Geochronological Lab.;England
+Gro*;Groningen;The Netherlands
+GrN*;Groningen;The Netherlands
+GrA;Groningen Accelerator;The Netherlands
+GSC;Geological Survey;Canada
+GU*;Scottish Universities Research & Reactor Centre;Scotland
+GX;Geochron Laboratories;USA
+H*;Heidelberg;West Germany
+HAM;Hamburg;Germany
+HAR*;Harwell;England
+Hd;Heidelberg;Germany
+Hel*;Helsinki;Finland
+Hela;Helsinki AMS;Finland
+HIG*;Hawaii Inst. of Geophys.;USA
+HL;Second Institute of Oceanography;China
+HNS*;Hasleton-Nuclear, Palo Alto, California;USA
+Hv;Hannover;Germany
+I*;Teledyne Isotopes;USA
+IAA;Institute of Accelerator Analysis (beta counting);Japan
+IAAA;Institute of Accelerator Analysis (AMS);Japan
+IAEA*;International Atomic Energy Agency;Austria
+IAEA-MEL;Marine Environmental Laboratory;Monaco
+ICEN*;Instituto Tecnológico e Nuclear;Portugal
+IEMAE;Institute of Evolutionary Morphology and Animal Ecology;Russia
+IFAO;Institut français d'archéologie orientale;Egypt
+IGAN;Institute of Geography;Russia
+IGS*;Inst. of Geological Sci.;Sweden
+IGSB;Inst. of Geological Sci.;Belarus
+IHME;The Marzeev Institute of Hygiene and Medical Ecology;
+Ukraine;;
+II*;Isotopes, Inc., Palo Alto;USA
+IMTA;Instituto Mexicano de Tecnología del Agua (IMTA);Mexico
+IOAN*;Institute of Oceanography;Russia
+IORAN*;Institute of Oceanology;Russia
+IRPA*;Royal Institute of Cultural Heritage;Belgium
+ISGS;Illinois State Geological Survey;USA
+IVAN*;Institute of Volcanology;Ukraine
+IVIC*;Caracas;Venezuela
+IWP*;Institute of Water Problems;Russia
+JAT;Tono Geoscience Center, Japan Atomic Energy Agency (JAEA);Japan
+JGS*;Geological Survey of Japan;Japan
+JUBR;Biren Roy Research Laboratory;India
+K;National Museum;Denmark
+KAERI*;Korean Atomic Energy Research Institute;Korea
+KCP;National Cultural Property Research Institute;Korea
+KEEA;Kyushu Environmental Evaluation Association;Japan
+KI;Kiel;Germany
+KIA;Kiel AMS;Germany
+Ki (KIEV);Institute of Radio Geochemistry of the Environment;Ukraine
+KIK*;Royal Institute for Cultural Heritage;Belgium
+KN*;Köln;Germany
+KR;Krakow;Poland
+KRIL*;Krasnoyarsk Institute;Russia
+KSU*;Kyoto Sangyo University;Japan
+L*;Lamont-Doherty;USA
+LACUFF;Fluminense Federal University;Brazil
+LAEC;Lebanese Atomic Energy Commission (LAEC);Lebanon
+LAR*;Licge State University;Belgium
+LE;St. Petersburg;Russia
+LIH;Lab. of Isotope Hydrology, NCSR Demokritos;Greece
+LJ*;Scripps (UCSD) La Jolla;USA
+LOD;Lodz;Poland
+LP;La Plata;Argentina
+Lu*;Lund;Sweden
+LU;St. Petersburg State Univesity;Russia
+LUS;Lund University;Sweden
+Lv*;Louvain-la-Neuve;Belgium
+Ly;University of Lyon;France
+LZ;Umweltforschungszentrum Leipzig-Halle;Germany
+M*;University of Michigan;USA
+Ma*;University of Winnepeg;Canada
+MAG;Quaternary Geology and Geochronology Laboratory;Russia
+MAMS;Curt-Engelhorn-Zentrum Archaeometrie;Germany
+MC*;Centre Scientifique de Monaco;Monaco
+METU*;Middle East Technical University;Turkey
+MKL;Laboratory of Absolute Dating;Poland
+ML*;Miami;USA
+Mo*;Verdanski Inst. of Geochemistry, Moscow;USSR
+MOC*;Archaeological Institute, Czechoslovak Acad. of Sci.;Czechoslovakia
+MP*;Magnolia Petroleum;USA
+MRRI*;Marine Resources Research Institute;USA
+MSU*;Moscow State University;Russia
+MTC;University of Tokyo;Japan
+N*;Nishina Memorial;Japan
+NIST;National Institute of Standards and Technology;USA
+NOSAMS;National Ocean Sciences AMS Facility, Woods Hole Oceanographic Inst.;USA
+NPL*;National Physical Laboratory, Middlesex;England
+NS*;Nova Scotia Research Foundation;Canada
+NSRL;INSTAAR AMS Lab, U of Colorado;USA
+NSTF*;Nuclear Science and Technology Facility, State Univ. of New York;USA
+NSW*;U. of New South Wales;Australia
+NTU;National Taiwan University;Republic of China
+NU*;Nihon University;Japan
+NUTA;Tandetron AMS Lab;Japan
+Ny*;Nancy, Centre de Recherches Radiogéologiques;France
+NZ*;Rafter Radiocarbon Lab;New Zealand
+NZA;Rafter Radiocarbon Lab (AMS);New Zealand
+O*;Humble Oil & Refining;USA
+OBDY*;ORSTOM Bondy;France
+OR;Research Center of Radioisotopes;Japan
+ORINS*;Oak Ridge Institute of Nuclear Studies;USA
+OWU*;Ohio Wesleyan Univ.;USA
+OX*;USDA Oxford, Mississippi;USA
+OxA;Oxford Radiocarbon Accelerator Unit;England
+OZ;ANSTO-ANTARES;Australia
+P;Max-Planck-Institut für Biogeochemie, Jena;Germany
+P*;Univ. of Pennsylvania;USA
+Pi*;Pisa;Italy
+PI*;Permafrost Institute;Russia
+PIC*;Packard;USA
+PITT*;University of Pittsburgh;USA
+Poz;Poznan Radiocarbon Laboratory;Poland
+Pr*;Prague;Czechoslovakia
+PKU;Peking University;China
+PKUAMS;Peking University AMS lab;China
+PL;Purdue Rare Isotope Measurement Laboratory;USA
+PLD;Paleo Laboratory Co., Ltd.;Japan
+PRI;PaleoResearch Institute;USA
+PRL;Physical Research Laboratory;India
+PRLCH;Physical Research Laboratory (Chemistry Dept.);India
+PSU*;Pennsylvania State Univ.;USA
+Pta;Pretoria;South Africa
+Q;Cambridge;England
+QL*;Quaternary Isotope Laboratory;USA
+QC*;Queens College;USA
+QU*;Centre de Recherches Minérales, Québec;Canada
+R;Rome;Italy
+RCD;Radiocarbon Dating;England
+RI*;Radiochemistry, Inc.;USA
+RICH;Royal Institute for Cultural Heritage;Belgium
+RIDDL*;Simon Fraser Univ.;Canada
+Riga*;Institute of Science;Latvia
+RL*;Radiocarbon, Ltd.;USA
+Rome;Department of Earth Sciences, Rome;Italy
+RT;Rehovot;Israel
+RTK;Rehovot;Israel
+RU*;Rice University;USA
+S*;Saskatchewan;Canada
+Sa*;Saclay, Gif-sur-Yvette;France
+Sac;Instituto Tecnológico e Nuclear;Portugal
+SacA;Gif sur Yvette (Saclay);France
+SFU*;Simon Fraser Univ.;Canada
+Sh*;Shell Development Co.;USA
+SI*;Smithsonian Institution;USA
+SL*;Sharp Laboratories;USA
+SM*;Mobil Oil Corp., Dallas;USA
+SMU*;Southern Methodist Univ.;USA
+SNU;Seoul National Univ.;Korea
+SOAN;Institute of Geology and Geophysics;Russia
+SR*;Salisbury, Rhodesia;Rhodesia
+SRR*;NERC Radiocarbon Laboratory;Scotland
+St*;Stockholm;Sweden
+Su*;Finland;Finland
+SUA;Sydney University;Australia
+SUERC;Scottish Universities Environmental Research Centre;
+Scotland;;
+SWA;Swansea;Wales
+T;Trondheim;Norway
+Ta;Tartu;Estonia
+TAM*;Texas A & M University;USA
+TB;Tblisi;Georgia
+TBNC*;Kaman Instruments (formerly Texas-Bio-Nuclear);USA
+TEM*;Temple University;USA
+TF*;Tata Institute of Fundamental Research;India
+TK;University of Tokyo;Japan
+TKa;University of Tokyo AMS;Japan
+TKU;Turku;Finland
+Tln;Tallinn;Estonia
+TO;IsoTrace Laboratory;Canada
+TRa;Trondheim (AMS);Norway
+TUa;Trondheim (AMS);Norway
+TUNC*;Tehran University Nuclear Centre;Iran
+Tx*;Texas;USA
+U;Uppsala;Sweden
+Ua;Uppsala Accelerator;Sweden
+UB*;Belfast;Northern Ireland
+UBA;Belfast;Northern Ireland
+UBAR;University of Barcelona;Spain
+UCD;University College, Dublin;Ireland
+UCI;University of California, Irvine;USA
+UCLA*;University of California, Los Angeles;USA
+UCR*;University of California, Riverside;USA
+UD*;Udine;Italy
+UGa;University of Georgia;USA
+UGRA;University of Granada;Spain
+UL*;University of Laval;Canada
+ULA;University of Laval;Canada
+UM*;University of Miami;USA
+UQ*;University of Quebec at Montreal;Canada
+URCRM*;Ukrainian Research Ctr. for Radiation Medicine;Ukraine
+USGS*;USGS, Menlo Park;USA
+UtC*;Utrecht van der Graaf Laboratorium;The Netherlands
+UTCAG;University of Tennessee, Center for Archaeometry and Geochronology;USA
+UW*;University of Washington;USA
+V*;Melbourne, Victoria;Australia
+VERA;Institut für Radiumforschung und Kernphysik;Austria
+VRI*;Vienna Radium Institute;Austria
+W*;USGS, National Center;USA
+WAT*;University of Waterloo;Canada
+WHAMS;National Ocean Sciences AMS Facility;USA
+WIS*;Wisconsin;USA
+Wk;University of Waikato;New Zealand
+WRD*;USGS Washington, D.C. Water Resources Division;USA
+WSU*;Washington State Univ.;USA
+XLLQ;Xian Laboratory of Loess and Quaternary Geology;China
+X*;Whitworth College;USA
+Y*;Yale University;USA
+Ya*;Yale University;USA
+YU;Yamagata University;Japan
+Z;Zagreb;Croatia
