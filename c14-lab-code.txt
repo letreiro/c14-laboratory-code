@@ -21,7 +21,7 @@ BIOCAMS*;BIOCAMS International;USA
 Birm*;Birmingham;USA
 Bln*;Berlin;Germany
 BM*;British Museum;England
-BONN*;Universität Bonn;Germany
+BONN*;UniversitÃ¤t Bonn;Germany
 BS;Birbal Sahni Institute;India
 BSG;Brock University;Canada
 C*;Chicago;USA
@@ -40,7 +40,7 @@ CSM*;Cosmochemistry Lab. USSR Academy of Sciences;USSR
 CT*;Caltech, Calif. Inst. Tech.;USA
 CU;Charles University;Czech Republic
 D*;Dublin, Trinity College;Ireland
-Dak*;Univ. de Dakar;République du Sénégal
+Dak*;Univ. de Dakar;RÃ©publique du SÃ©nÃ©gal
 DAL*;Dalhousie University;Canada
 DE*;USGS, Denver;USA
 Deb;Debrecen;Hungary
@@ -48,7 +48,7 @@ DeA;Debrecen (AMS);Hungary
 DEM;Lab. of Archaeometry, NCSR Demokritos;Greece
 DGC;Dalhousie Geochronology Centre;Canada
 DIC*;Dicar Corp and Dicarb Radioisotope Company;USA
-DK;Institut Fondamental d’Afrique Noire (IFAN);Senegal
+DK;Institut Fondamental dâ€™Afrique Noire (IFAN);Senegal
 DRI*;Desert Research Institute;USA
 DSA;Center for Isotopic Research on Cultural and Environmental Heritage (CIRCE);Italy
 D-AMS;Direct AMS;USA
@@ -61,7 +61,7 @@ Fra*;Frankfurt;Germany
 FSU*;Florida State University;USA
 FZ;Fortaleza;Brazil
 FTMC;Vilnius AMS Lab;Lithuania
-G*;Göteborg;Sweden
+G*;GÃ¶teborg;Sweden
 GAK;Gakushuin University;Japan
 Gd;Gliwice;Poland
 GD*;Gdansk;Poland
@@ -90,16 +90,16 @@ IAA;Institute of Accelerator Analysis (beta counting);Japan
 IAAA;Institute of Accelerator Analysis (AMS);Japan
 IAEA*;International Atomic Energy Agency;Austria
 IAEA-MEL;Marine Environmental Laboratory;Monaco
-ICEN*;Instituto Tecnológico e Nuclear;Portugal
+ICEN*;Instituto TecnolÃ³gico e Nuclear;Portugal
 IEMAE;Institute of Evolutionary Morphology and Animal Ecology;Russia
-IFAO;Institut français d'archéologie orientale;Egypt
+IFAO;Institut franÃ§ais d'archÃ©ologie orientale;Egypt
 IGAN;Institute of Geography;Russia
 IGS*;Inst. of Geological Sci.;Sweden
 IGSB;Inst. of Geological Sci.;Belarus
 IHME;The Marzeev Institute of Hygiene and Medical Ecology;
 Ukraine;;
 II*;Isotopes, Inc., Palo Alto;USA
-IMTA;Instituto Mexicano de Tecnología del Agua (IMTA);Mexico
+IMTA;Instituto Mexicano de TecnologÃ­a del Agua (IMTA);Mexico
 IOAN*;Institute of Oceanography;Russia
 IORAN*;Institute of Oceanology;Russia
 IRPA*;Royal Institute of Cultural Heritage;Belgium
@@ -118,7 +118,7 @@ KI;Kiel;Germany
 KIA;Kiel AMS;Germany
 Ki (KIEV);Institute of Radio Geochemistry of the Environment;Ukraine
 KIK*;Royal Institute for Cultural Heritage;Belgium
-KN*;Köln;Germany
+KN*;KÃ¶ln;Germany
 KR;Krakow;Poland
 KRIL*;Krasnoyarsk Institute;Russia
 KSU*;Kyoto Sangyo University;Japan
@@ -162,7 +162,7 @@ NSW*;U. of New South Wales;Australia
 NTU;National Taiwan University;Republic of China
 NU*;Nihon University;Japan
 NUTA;Tandetron AMS Lab;Japan
-Ny*;Nancy, Centre de Recherches Radiogéologiques;France
+Ny*;Nancy, Centre de Recherches RadiogÃ©ologiques;France
 NZ*;Rafter Radiocarbon Lab;New Zealand
 NZA;Rafter Radiocarbon Lab (AMS);New Zealand
 O*;Humble Oil & Refining;USA
@@ -173,7 +173,7 @@ OWU*;Ohio Wesleyan Univ.;USA
 OX*;USDA Oxford, Mississippi;USA
 OxA;Oxford Radiocarbon Accelerator Unit;England
 OZ;ANSTO-ANTARES;Australia
-P;Max-Planck-Institut für Biogeochemie, Jena;Germany
+P;Max-Planck-Institut fÃ¼r Biogeochemie, Jena;Germany
 P*;Univ. of Pennsylvania;USA
 Pi*;Pisa;Italy
 PI*;Permafrost Institute;Russia
@@ -193,7 +193,7 @@ Pta;Pretoria;South Africa
 Q;Cambridge;England
 QL*;Quaternary Isotope Laboratory;USA
 QC*;Queens College;USA
-QU*;Centre de Recherches Minérales, Québec;Canada
+QU*;Centre de Recherches MinÃ©rales, QuÃ©bec;Canada
 R;Rome;Italy
 RCD;Radiocarbon Dating;England
 RI*;Radiochemistry, Inc.;USA
@@ -207,7 +207,7 @@ RTK;Rehovot;Israel
 RU*;Rice University;USA
 S*;Saskatchewan;Canada
 Sa*;Saclay, Gif-sur-Yvette;France
-Sac;Instituto Tecnológico e Nuclear;Portugal
+Sac;Instituto TecnolÃ³gico e Nuclear;Portugal
 SacA;Gif sur Yvette (Saclay);France
 SFU*;Simon Fraser Univ.;Canada
 Sh*;Shell Development Co.;USA
@@ -263,7 +263,7 @@ UtC*;Utrecht van der Graaf Laboratorium;The Netherlands
 UTCAG;University of Tennessee, Center for Archaeometry and Geochronology;USA
 UW*;University of Washington;USA
 V*;Melbourne, Victoria;Australia
-VERA;Institut für Radiumforschung und Kernphysik;Austria
+VERA;Institut fÃ¼r Radiumforschung und Kernphysik;Austria
 VRI*;Vienna Radium Institute;Austria
 W*;USGS, National Center;USA
 WAT*;University of Waterloo;Canada
