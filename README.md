@@ -1,5 +1,8 @@
 # Radiocarbon dating laboratory code
 
+List of all past and present radiocarbon laboratory codes known to have been used in published references.\
+\* = laboratories that are no longer operating or have changed their code designations.
+
 ### Source
 https://web.archive.org/web/20171218184828/http://www.radiocarbon.org/Info/labcodes.html
 
@@ -8,9 +11,5 @@ https://web.archive.org/web/20171218184828/http://www.radiocarbon.org/Info/labco
 
 - [c14-lab-code.txt](https://github.com/letreiro/c14-laboratory-code/raw/master/c14-lab-code.txt)
 
-### Note
-List of all past and present radiocarbon laboratory codes known to have been used in published references.\
-\* = laboratories that are no longer operating or have changed their code designations.
-	
 ### Last acess
 2020-07-16 (YYYY-MM-DD)
