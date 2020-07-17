@@ -5,7 +5,7 @@ https://web.archive.org/web/20171218184828/http://www.radiocarbon.org/Info/labco
 
 ### link
 - c14-lab-code.csv\
-https://github.com/letreiro/c14-laboratory-code/raw/master/c14-lab-code.csv
+[C14 lab code.csv] https://github.com/letreiro/c14-laboratory-code/raw/master/c14-lab-code.csv
 
 - c14-lab-code.txt\
 https://github.com/letreiro/c14-laboratory-code/raw/master/c14-lab-code.txt
