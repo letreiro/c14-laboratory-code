@@ -11,5 +11,5 @@ List of all past and present radiocarbon laboratory codes known to have been use
 
 - [c14-lab-code.txt](https://github.com/letreiro/c14-laboratory-code/raw/master/c14-lab-code.txt)
 
-### Last acess
-2020-07-16 (YYYY-MM-DD)
+### Last update
+2020-07-16 (YMD)
