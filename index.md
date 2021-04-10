@@ -13,3 +13,19 @@ List of all past and present radiocarbon laboratory codes known to have been use
 
 ### Last update
 2020-Jul-16
+
+Model
+
+|Code|Lab name|Country|
+|---|---|---|
+|A|Arizona|USA|
+|AA|NSF|USA|
+|AAR|University of Aarhus|Denmark|
+|AC|Ingeis|Argentina|
+|AECV*|Alberta Environmental Center of Vegreville|Canada|
+|AERIK*|Atomic Energy Res. Inst.|Korea|
+|ALG*|Algiers|Algeria|
+|ANL*|Argonne Nat. Lab., Ill.|USA|
+|ANTW*|Antwerp|Belgium|
+|ANU*|Australian National University|Australia|
+|ANUA|ANU Accelerator|Australia|
