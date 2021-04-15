@@ -26,7 +26,7 @@ List of all past and present radiocarbon laboratory codes known to have been use
 
 [link](https://letreiro.github.io/c14-laboratory-code/)
 
-# Source
+## Source
 [Radiocarbon Labcodes](https://web.archive.org/web/20171218184828/http://www.radiocarbon.org/Info/labcodes.html)
 
 # Last update
