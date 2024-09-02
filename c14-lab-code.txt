@@ -222,7 +222,7 @@ SRR*;NERC Radiocarbon Laboratory;Scotland
 St*;Stockholm;Sweden
 Su*;Finland;Finland
 SUA;Sydney University;Australia
-SUERC;Scottish Universities Environmental Research Centre;Scotland;
+SUERC;Scottish Universities Environmental Research Centre;Scotland
 SWA;Swansea;Wales
 T;Trondheim;Norway
 Ta;Tartu;Estonia
